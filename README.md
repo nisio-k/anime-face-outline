@@ -6,7 +6,7 @@
 
 ## 出力される画像
 
-![]()
+![](https://raw.githubusercontent.com/nisio-k/anime-face-outline/images/sample.jpg)
 
 こんな感じで線画と元画像が並びます。
 元の画像は[イラストAC](https://www.ac-illust.com/main/detail.php?id=648361&word=%E3%81%8A%E8%8F%93%E5%AD%90%E3%81%AE%E5%B0%91%E5%A5%B3)からお借りしました。
